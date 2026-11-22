@@ -1,7 +1,7 @@
 # Vault Sync for Obsidian
 
 Vault Sync 的插件安装文件发布仓库，支持通过 BRAT 在桌面和移动端安装。
-此仓库公开可读，安装插件不需要 GitHub Token。
+此仓库公开可读，安装插件不需要 GitHub Token。仓库同时提供 `manifest-beta.json`，兼容尚未升级到 BRAT 1.1.0 的旧版。
 
 当前版本 `1.0.0` 为预发布测试版。构建、TypeScript 检查及 50 项插件测试
 已通过；iOS / iPadOS 真机验收仍待完成。本仓库仅分发插件端文件，
