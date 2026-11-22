@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.obsidian/
+.universal-sync/
+data.json
+.env
+.env.*
+*.log

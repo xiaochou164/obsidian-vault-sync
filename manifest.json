@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-universal-sync",
+  "name": "Vault Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Durable, offline-first synchronization for Obsidian vaults.",
+  "author": "Obsidian Universal Sync",
+  "isDesktopOnly": false
+}
